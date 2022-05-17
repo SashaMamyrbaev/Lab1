@@ -1,1 +1,1 @@
-console.log("Hello World!")
+console.log("Саша Мамирбаєв 2КН-20б Лабораторна 1 КПП");
